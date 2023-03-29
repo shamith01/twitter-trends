@@ -1,0 +1,51 @@
+@media screen and (max-width:850px) {
+    .container1{
+        display: flex;
+        width: 100vw;
+        height: max-content;
+        
+        background:rgb(176, 176, 176);
+        
+      
+        
+      }
+      
+      .conte1{
+        
+        background: white;
+        width: 800px;
+        height: max-content;
+        margin: 0 auto;
+        font-size: 19px;
+      }
+      
+      .content2{
+        /* background: orange; */
+        margin-top: 5px;
+        width: 800px;
+      }
+      
+      .img{
+        margin-top: 20px;
+        
+      }
+      
+      .mtitle{
+        margin-left: 5px;
+        text-decoration: underline;
+      
+      
+      }
+      
+      .title{
+        margin-top: 10px;
+        font-weight: 400;
+      
+      }
+      
+      .trend{
+        margin-top:20px ;
+        margin-bottom: 30px;
+      }
+    
+}
